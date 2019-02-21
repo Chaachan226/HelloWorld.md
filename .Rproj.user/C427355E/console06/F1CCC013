@@ -1,0 +1,5 @@
+]0;~/HelloWorld.md[?1034hGregs-iMac:HelloWorld.md Izumi$ [KGregs-iMac:HelloWorld.md Izumi$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/Izumi/dir/name/of/path/to/file: No such file or directory
+]0;~/HelloWorld.mdGregs-iMac:HelloWorld.md Izumi$ git init
+Initialized empty Git repository in /Users/Izumi/HelloWorld.md/.git/
+]0;~/HelloWorld.mdGregs-iMac:HelloWorld.md Izumi$ git add .
